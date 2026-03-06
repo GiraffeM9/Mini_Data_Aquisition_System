@@ -3,4 +3,3 @@ Mini data aquisition system, using an ESP32 development board, a DHT11 temperatu
 
 Insert photo of wiring 
 
-Insert photos of kicad 
